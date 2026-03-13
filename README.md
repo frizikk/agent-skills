@@ -1,39 +1,39 @@
 # Agent Skills
 
-Repozytorium zawiera skille dla agentów AI.
+This repository contains skills for AI agents.
 
-## Instalacja
+## Installation
 
-Aby użyć skilli, sklonuj repozytorium:
+To use the skills, clone the repository:
 
 ```bash
 git clone https://github.com/frizikk/agent-skills.git
 cd agent-skills
 ```
 
-## Dostępne skille
+## Available Skills
 
 ### jules
 
-Zarządzanie sesjami Google Jules AI API - tworzenie sesji, wysyłanie wiadomości, zatwierdzanie planów.
+Manage Google Jules AI API sessions - create sessions, send messages, approve plans.
 
-Plik: `skills/jules/SKILL.md`
+File: `skills/jules/SKILL.md`
 
-## Struktura
+## Structure
 
 ```
 agent-skills/
-├── skills.json          # Lista dostępnych skilli
-├── README.md            # Ten plik
+├── skills.json          # List of available skills
+├── README.md            # This file
 ├── skills/
 │   └── jules/
-│       └── SKILL.md     # Dokumentacja skillu jules
-└── shared/              # Współdzielone zasoby
+│       └── SKILL.md     # Documentation for jules skill
+└── shared/              # Shared resources
     ├── scripts/
     ├── references/
     └── examples/
 ```
 
-## Użycie
+## Usage
 
-Przeglądaj dokumentację poszczególnych skilli w katalogu `skills/`.
+Browse the documentation for each skill in the `skills/` directory.

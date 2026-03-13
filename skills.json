@@ -3,7 +3,7 @@
     {
       "name": "jules",
       "file": "skills/jules/SKILL.md",
-      "description": "Zarządzanie sesjami Google Jules AI API"
+      "description": "Manage Google Jules AI API sessions - create sessions, send messages, approve plans"
     }
   ]
 }
