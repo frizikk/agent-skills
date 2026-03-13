@@ -1,6 +1,9 @@
 ---
 name: jules
-description: Manage Google Jules AI coding assistant sessions, activities, and sources via the Jules API
+description: Zarządzanie sesjami Google Jules AI API - tworzenie sesji, wysyłanie wiadomości, zatwierdzanie planów
+version: 1.0.0
+author: frizik
+homepage: https://github.com/frizikk/agent-skills
 ---
 
 ## Overview

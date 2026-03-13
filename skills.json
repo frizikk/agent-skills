@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "jules",
+      "file": "skills/jules/SKILL.md",
+      "description": "Zarządzanie sesjami Google Jules AI API"
+    }
+  ]
+}
